@@ -1,0 +1,1 @@
+Now that you have learned the basics of Git workflow, try running through these couple of commands on your own
